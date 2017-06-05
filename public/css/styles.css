@@ -1,0 +1,12 @@
+.align-right {
+    float: right;
+}
+
+.inline {
+    display: inline-block;
+    padding-right: 5px
+}
+
+.btn {
+    margin-right: 5px;
+}

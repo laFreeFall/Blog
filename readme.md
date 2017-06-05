@@ -18,7 +18,7 @@
 
 ![Articles with tag](https://image.prntscr.com/image/f15c434a24054814819645cb0bbdf760.png "Articles with tag")
 
-![Articles of user](http://prntscr.com/fg6hmf "Articles of user")
+![Articles of user](https://image.prntscr.com/image/9c255e6a76864caabb9bf087baa84cab.png "Articles of user")
 
 ### 5. List of tags with amount of their usage
 
